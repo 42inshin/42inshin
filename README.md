@@ -41,3 +41,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white">
 
 ![42inshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=42inshin&show_icons=true&theme=transparent)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F42inshin&count_bg=%234C9CF7&title_bg=%237C7C7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
