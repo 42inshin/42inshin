@@ -4,7 +4,7 @@ Hello! I'm Inho Shin.<br>
 A Developer from South Korea.(👀 maybe soon)<br>
 I love different experiences and attempts, and I am currently traveling the developer road.<br>
 <br>
-with passion! With colorful!<br>
+With passion! With colorful!<br>
 I will be a professional team member.<br>
 
 - 📖 I'm currently [42seoul](https://42seoul.kr/seoul42/main/view) member.
