@@ -1,18 +1,17 @@
 ## Inho Shin @42inshin
-Hello! I'm Inho Shin.
-A Developer from South Korea.(👀 maybe soon)
-I love different experiences and attempts, and I am currently traveling the developer road.
 
-with passion! With colorful!
-I will be a professional team member.
+Hello! I'm Inho Shin.<br>
+A Developer from South Korea.(👀 maybe soon)<br>
+I love different experiences and attempts, and I am currently traveling the developer road.<br>
+<br>
+with passion! With colorful!<br>
+I will be a professional team member.<br>
 
-안녕하세요! 신인호입니다.
-한국의 개발자입니다.(👀 곧 될 예정)
-다양한 경험과 시도를 좋아하며 현재 개발자 길을 여행하고 있습니다.
-
-<span style="color: gold;">CREATIVE</span> Developer
-열정을 품은! 다채로운 색을 지닌!
-프로페셔널한 팀원이 되겠습니다.
+- 📖 I'm currently [42seoul](https://42seoul.kr/seoul42/main/view) member.
+- 🌱 I’m currently learning React and Flutter.
+- 👯 I’m currently collaborating on [42cabi](https://cabi.42cadet.kr/).
+- 📫 How to reach me: [sih0917@gmail.com](mailto:sih0917@gmail.com)
+- ⚡ Fun fact: young for your age.
 
 <!--
 **42inshin/42inshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
