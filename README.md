@@ -11,7 +11,6 @@ I will be a professional team member.<br>
 - 🌱 I’m currently learning React and Flutter.
 - 👯 I’m currently collaborating on [42cabi](https://cabi.42cadet.kr/).
 - 📫 How to reach me: [sih0917@gmail.com](mailto:sih0917@gmail.com)
-- ⚡ Fun fact: young for your age.
 
 <!--
 **42inshin/42inshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
