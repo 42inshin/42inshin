@@ -9,7 +9,7 @@ I will be a professional team member.<br>
 
 - 📖 I'm currently [42seoul](https://42seoul.kr/seoul42/main/view) member.
 - 🌱 I’m currently learning React and Flutter.
-- 👯 I’m currently collaborating on [42cabi](https://cabi.42cadet.kr/).
+- 👯 I’m currently collaborating on [42cabi](https://cabi.42seoul.io/).
 - 📫 How to reach me: [sih0917@gmail.com](mailto:sih0917@gmail.com)
 
 <!--
