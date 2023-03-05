@@ -1,4 +1,6 @@
-## Inho Shin @42inshin
+## Inho Shin @42inshin 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F42inshin&count_bg=%234C9CF7&title_bg=%237C7C7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Hello! I'm Inho Shin.<br>
 A Developer from South Korea.(👀 maybe soon)<br>
@@ -29,7 +31,10 @@ Here are some ideas to get you started:
 // Most Used Languages (TIL 때문에 html이 압도적으로 많게 나옴 ㅠㅠ)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42inshin)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+
 ### Skill
+
 <p align="left">
 <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -56,10 +61,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
+
 ### Community
+
 <img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white">
 
 ![42inshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=42inshin&show_icons=true&theme=transparent)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F42inshin&count_bg=%234C9CF7&title_bg=%237C7C7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sih0917@gmail.com)](mailto:sih0917@gmail.com)
+
+
