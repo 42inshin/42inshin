@@ -12,7 +12,7 @@ I will be a professional team member.<br>
 - 💼 My resume is [here](https://ninos.notion.site/ddd072fa3a5647a7ac54179af7153176).
 - 📖 I'm currently [42seoul](https://42seoul.kr/seoul42/main/view) member.
 - 🌱 I’m currently learning React and Vue.js.
-- 👯 I’m currently collaborating on [42CABI](https://cabi.42seoul.io/) / [24HANE](https://24hoursarenotenough.42seoul.kr/).
+- 👯 I’m currently collaborating on [CABI](https://github.com/innovationacademy-kr/Cabi) /  [24HANE](https://github.com/innovationacademy-kr/24hane-frontend).
 - 📫 How to reach me: [sih0917@gmail.com](mailto:sih0917@gmail.com)
 
 <!--
