@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 ### Skill
 
 <p align="left">
+<img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/swiftui-007AFF?style=for-the-badge&logo=swift&logoColor=white">
+</p>
+<p align="left">
 <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
