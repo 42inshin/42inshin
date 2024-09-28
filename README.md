@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## Skill
+## Skills
 
 #### Web Frontend
 <p align="left">
