@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 [KickTube](https://github.com/sgdevcamp2025/kickzo) - A synchronized YouTube watching service for group viewing.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sgdevcamp2025E&repo=kickzo&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/sgdevcamp2025/kickzo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sgdevcamp2025&repo=kickzo&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/sgdevcamp2025/kickzo)
 <br>
 
 ## Skills
