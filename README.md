@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 [공유일기](https://exchange-diary.imweb.me/) - A shared diary app for documenting daily moments.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joHoEunSaE&repo=Exchange_Diary&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/joHoEunSaE/Exchange_Diary/)
+
+[KickTube](https://github.com/sgdevcamp2025/kickzo) - A synchronized YouTube watching service for group viewing.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sgdevcamp2025E&repo=kickzo&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/sgdevcamp2025/kickzo)
 <br>
 
 ## Skills
