@@ -2,18 +2,41 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F42inshin&count_bg=%234C9CF7&title_bg=%237C7C7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Hello! I'm Inho Shin. A Developer from South Korea.<br>
-I love different experiences and attempts, and I am currently traveling the developer road.<br>
-<br>
-With passion! With colorful!<br>
-I will be a professional team member.<br>
+Inho Shin @42inshin
 
-- 💼 My resume is [here](https://ninos.notion.site/ddd072fa3a5647a7ac54179af7153176).
-- 📖 I'm [42seoul](https://42seoul.kr/seoul42/main/view) member.
-- 🔭 I have experience participating in **Smilegate Dev Camp** (2024.12.27~2025.2.28)
-- 🌱 I’m currently learning **NestJS** with **MSA**.
-- 👯 I’m currently collaborating on [CABI](https://github.com/innovationacademy-kr/Cabi) /  [24HANE](https://github.com/innovationacademy-kr/24hane-frontend) / [공유일기](https://exchange-diary.imweb.me/).
-- 📫 How to reach me: [sih0917@gmail.com](mailto:sih0917@gmail.com)
+
+
+Hello! I'm Inho Shin, a Developer from South Korea.
+I love diverse experiences and new challenges, currently traveling the path of development.
+
+With passion and creativity,
+I strive to be a professional and collaborative team member.
+
+### Experience 🏆
+
+- **Smilegate Dev Camp** (2024.12.27 ~ 2025.02.28): Completed as a cohort leader.
+- **Exchange Diary Project**: Successfully developed an iOS app achieving over 1.5K users.
+- **CABI Project**: Awarded Minister of Science and ICT (과학기술정보통신부 장관상).
+- **24HANE Project**: Awarded Minister of Science and ICT (과학기술정보통신부 장관상).
+
+### More about me
+
+- 💼 [My resume](https://ninos.notion.site/ddd072fa3a5647a7ac54179af7153176)
+
+- 📖 Member of [42seoul](https://42seoul.kr/seoul42/main/view)
+
+- 🌱 Currently learning **NestJS** with **MSA**.
+
+- 👯 Collaborating on:
+
+  - [CABI](https://github.com/innovationacademy-kr/Cabi)
+
+  - [24HANE](https://github.com/innovationacademy-kr/24hane-frontend)
+
+  - [공유일기](https://exchange-diary.imweb.me/)
+
+- 📫 Contact me at [sih0917@gmail.com](mailto:sih0917@gmail.com)
+
 
 <!--
 **42inshin/42inshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +64,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sgdevcamp2025&repo=kickzo&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/sgdevcamp2025/kickzo)
 
-[Cabi](https://api-dev.cabi.42seoul.io/demo) - A responsive locker rental and management service for 42Seoul.
+[Cabi](https://github.com/innovationacademy-kr/cabi) - A responsive locker rental and management service for 42Seoul.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=cabi&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/innovationacademy-kr/cabi)
 
