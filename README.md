@@ -1,12 +1,9 @@
 ## Inho Shin @42inshin 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F42inshin&count_bg=%234C9CF7&title_bg=%237C7C7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-Inho Shin @42inshin
-
-
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F42inshin&count_bg=%234C9CF7&title_bg=%237C7C7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 Hello! I'm Inho Shin, a Developer from South Korea.
+
 I love diverse experiences and new challenges, currently traveling the path of development.
 
 With passion and creativity,
