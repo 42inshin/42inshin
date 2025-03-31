@@ -34,6 +34,7 @@ I strive to be a professional and collaborative team member.
 
 - 📫 Contact me at [sih0917@gmail.com](mailto:sih0917@gmail.com)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42inshin&show_icons=true&theme=vue-dark)
 
 <!--
 **42inshin/42inshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
