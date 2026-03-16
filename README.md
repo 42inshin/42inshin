@@ -14,7 +14,7 @@ I strive to be a professional and collaborative team member.
 - **Smilegate Holdings** (2024.04.21 ~ 2025.10.20): Software Engineer Intern.
 - **Smilegate Dev Camp** (2024.12.27 ~ 2025.02.28): Completed as a cohort leader.
 
-## Achievements/Projects
+### Achievements/Projects
 - **Scoreboard - Live & Share**: Developed and launched a real-time scoring application on both iOS and Android.
 - **Pomotime - Focus Timer**: Developed and launched a cross-platform productivity application on both iOS and Android.
 - **Exchange Diary Project**: Developed and launched an iOS application, reaching 1.5K+ users.
@@ -22,8 +22,6 @@ I strive to be a professional and collaborative team member.
 - **24HANE Project**: Awarded the **Minister of Science and ICT Award** (과학기술정보통신부 장관상).
 
 ### More about me
-
-- 💼 [My resume](https://ninos.notion.site/ddd072fa3a5647a7ac54179af7153176)
 
 - 📖 Member of [42seoul](https://42seoul.kr/seoul42/main/view)
 
