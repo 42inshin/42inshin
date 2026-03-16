@@ -9,10 +9,14 @@ I love diverse experiences and new challenges, currently traveling the path of d
 With passion and creativity,
 I strive to be a professional and collaborative team member.
 
-### Experience 🏆
+### Experience
 
 - **Smilegate Holdings** (2024.04.21 ~ 2025.10.20): Software Engineer Intern.
 - **Smilegate Dev Camp** (2024.12.27 ~ 2025.02.28): Completed as a cohort leader.
+
+## Achievements/Projects
+- **Scoreboard - Live & Share**: Developed and launched a real-time scoring application on both iOS and Android.
+- **Pomotime - Focus Timer**: Developed and launched a cross-platform productivity application on both iOS and Android.
 - **Exchange Diary Project**: Developed and launched an iOS application, reaching 1.5K+ users.
 - **CABI Project**: Awarded the **Minister of Science and ICT Award** (과학기술정보통신부 장관상).
 - **24HANE Project**: Awarded the **Minister of Science and ICT Award** (과학기술정보통신부 장관상).
@@ -22,8 +26,6 @@ I strive to be a professional and collaborative team member.
 - 💼 [My resume](https://ninos.notion.site/ddd072fa3a5647a7ac54179af7153176)
 
 - 📖 Member of [42seoul](https://42seoul.kr/seoul42/main/view)
-
-- 🌱 Currently learning **NestJS** with **MSA**.
 
 - 👯 Collaborating on:
 
@@ -35,55 +37,29 @@ I strive to be a professional and collaborative team member.
 
 - 📫 Contact me at [sih0917@gmail.com](mailto:sih0917@gmail.com)
 
-<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42inshin&show_icons=true&theme=vue-dark)
--->
-
-<!--
-**42inshin/42inshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-// Most Used Languages (TIL 때문에 html이 압도적으로 많게 나옴 ㅠㅠ)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42inshin)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <br>
 
 ## Projects
 
+[Monthly Good42](https://devgood42.github.io/magazine.html) - A personal project newly started in 2026 with the goal of defining daily inconveniences and launching a product every month.
+
 [KickTube](https://github.com/sgdevcamp2025/kickzo) - A synchronized YouTube watching service for group viewing.
 
-<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sgdevcamp2025&repo=kickzo&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/sgdevcamp2025/kickzo)
--->
 
 [Cabi](https://github.com/innovationacademy-kr/cabi) - A responsive locker rental and management service for 42Seoul.
 
-<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=cabi&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/innovationacademy-kr/cabi)
--->
 
 [24HANE](https://github.com/innovationacademy-kr/24hane-frontend) - A check-in service to track learning hours at 42Seoul.
 
-<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=24hane-frontend&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/innovationacademy-kr/24hane-frontend)
--->
 
 [공유일기](https://exchange-diary.imweb.me/) - A shared diary app for documenting daily moments.
 
-<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joHoEunSaE&repo=Exchange_Diary&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/joHoEunSaE/Exchange_Diary/)
--->
 
 <br>
 
