@@ -16,7 +16,7 @@ I strive to be a professional and collaborative team member.
 
 ### Achievements/Projects
 
-- **Re:Post N-Year Journal**: Developed and launched a privacy-centric, local-first diary app inspired by Obsidian, currently available on both iOS and Android.
+- **Re:Post - N-Year Journal**: Developed and launched a privacy-centric, local-first diary app inspired by Obsidian, currently available on both iOS and Android.
 - **Scoreboard - Live & Share**: Developed and launched a real-time scoring application on both iOS and Android.
 - **Pomotime - Focus Timer**: Developed and launched a minimalist, cross-platform productivity application on both iOS and Android.
 - **Exchange Diary Project**: Developed and launched an iOS application, reaching 1.5K+ users.
