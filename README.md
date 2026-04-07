@@ -15,8 +15,10 @@ I strive to be a professional and collaborative team member.
 - **Smilegate Dev Camp** (2024.12.27 ~ 2025.02.28): Completed as a cohort leader.
 
 ### Achievements/Projects
+
+- **Re:Post N-Year Journal**: Developed and launched a privacy-centric, local-first diary app inspired by Obsidian, currently available on both iOS and Android.
 - **Scoreboard - Live & Share**: Developed and launched a real-time scoring application on both iOS and Android.
-- **Pomotime - Focus Timer**: Developed and launched a cross-platform productivity application on both iOS and Android.
+- **Pomotime - Focus Timer**: Developed and launched a minimalist, cross-platform productivity application on both iOS and Android.
 - **Exchange Diary Project**: Developed and launched an iOS application, reaching 1.5K+ users.
 - **CABI Project**: Awarded the **Minister of Science and ICT Award** (과학기술정보통신부 장관상).
 - **24HANE Project**: Awarded the **Minister of Science and ICT Award** (과학기술정보통신부 장관상).
@@ -35,7 +37,9 @@ I strive to be a professional and collaborative team member.
 
 - 📫 Contact me at [sih0917@gmail.com](mailto:sih0917@gmail.com)
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42inshin&show_icons=true&theme=vue-dark)
+-->
 
 <br>
 
@@ -47,19 +51,27 @@ I strive to be a professional and collaborative team member.
 
 [KickTube](https://github.com/sgdevcamp2025/kickzo) - A synchronized YouTube watching service for group viewing.
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sgdevcamp2025&repo=kickzo&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/sgdevcamp2025/kickzo)
+-->
 
 [Cabi](https://github.com/innovationacademy-kr/cabi) - A responsive locker rental and management service for 42Seoul.
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=cabi&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/innovationacademy-kr/cabi)
+-->
 
 [24HANE](https://github.com/innovationacademy-kr/24hane-frontend) - A check-in service to track learning hours at 42Seoul.
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=24hane-frontend&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/innovationacademy-kr/24hane-frontend)
+-->
 
 [공유일기](https://exchange-diary.imweb.me/) - A shared diary app for documenting daily moments.
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joHoEunSaE&repo=Exchange_Diary&title_color=fff&icon_color=40f4af&text_color=9f9f9f&bg_color=151515)](https://github.com/joHoEunSaE/Exchange_Diary/)
+-->
 
 <br>
 
