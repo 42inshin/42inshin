@@ -41,7 +41,7 @@
 : Obsidian에서 영감을 받은 프라이버시 중심의 로컬 저장 기반 다이어리입니다. (2026년 3월 출시)
 
 **[Scoreboard - Live & Share](https://devgood42.github.io/magazine.html#issue-03)** 
-: 경기 점수를 실시간으로 기록하고 타인과 공유할 수 있는 스포츠 애플리케이션입니다. (2026년 3월 출시)
+: 실시간 동기화로 점수를 여러 기기에서 조작할 수 있는 스포츠 도구입니다. (2026년 3월 출시)
 
 **[Pomotime - 집중 타이머](https://devgood42.github.io/magazine.html#issue-02)** 
 : 집중을 돕기 위한 미니멀한 디자인의 크로스 플랫폼 뽀모도로 타이머입니다. (2026년 2월 출시)
