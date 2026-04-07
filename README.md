@@ -11,17 +11,22 @@ I strive to be a professional and collaborative team member.
 
 ### Experience
 
-- **Smilegate Holdings** (2024.04.21 ~ 2025.10.20): Software Engineer Intern.
-- **Smilegate Dev Camp** (2024.12.27 ~ 2025.02.28): Completed as a cohort leader.
+- **Smilegate Holdings** (2024.04 ~ 2025.10): Software Engineer Intern.
+- **Smilegate Dev Camp** (2024.12 ~ 2025.02): Completed as a cohort leader.
+- **42Seoul** (2020.10 ~ 2020.10) : Cadet / Student
 
-### Achievements/Projects
+### Projects
+- **Personal Projects: "Monthly Shin Inho" (2026)**
+  A 2026 initiative to define and solve daily pain points with a new monthly product launch.
+  - **Re:Post - N-Year Journal**: Developed and launched a privacy-centric, local-first diary app inspired by Obsidian. (iOS/Android)
+  - **Scoreboard - Live & Share**: Developed and launched a real-time scoring application. (iOS/Android)
+  - **Pomotime - Focus Timer**: Developed and launched a minimalist, cross-platform productivity application. (iOS/Android)
+- **Exchange Diary**: Developed and launched an iOS application, reaching 1,500+ active users.
 
-- **Re:Post - N-Year Journal**: Developed and launched a privacy-centric, local-first diary app inspired by Obsidian, currently available on both iOS and Android.
-- **Scoreboard - Live & Share**: Developed and launched a real-time scoring application on both iOS and Android.
-- **Pomotime - Focus Timer**: Developed and launched a minimalist, cross-platform productivity application on both iOS and Android.
-- **Exchange Diary Project**: Developed and launched an iOS application, reaching 1.5K+ users.
-- **CABI Project**: Awarded the **Minister of Science and ICT Award** (과학기술정보통신부 장관상).
-- **24HANE Project**: Awarded the **Minister of Science and ICT Award** (과학기술정보통신부 장관상).
+### Awards & Honors
+- Grand Prize (1st Place) – Smilegate 2025 Hackathon
+- Minister of Science and ICT Award (CABI Project)
+- Minister of Science and ICT Award (24HANE Project)
 
 ### More about me
 
