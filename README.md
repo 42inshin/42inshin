@@ -45,9 +45,7 @@ I strive to be a professional and collaborative team member.
 
 ## Projects
 
-[Monthly Good42](https://devgood42.github.io/magazine.html) - A personal project newly started in 2026 with the goal of defining daily inconveniences and launching a product every month.
-  - Scoreboard - Live & Share
-  - Pomotime - Focus Timer
+[Monthly Good42](https://devgood42.github.io/magazine.html) - A 2026 project series: identifying daily pain points and launching a new product every month.
 
 [KickTube](https://github.com/sgdevcamp2025/kickzo) - A synchronized YouTube watching service for group viewing.
 
