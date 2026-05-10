@@ -38,13 +38,16 @@
 
 ## 프로젝트 상세 (Projects)
 
-**[Re:Post - N년 다이어리](https://devgood42.github.io/magazine.html#issue-04)** 
+**[우링(ooring)](https://devgood42.github.io/magazine.html#issue-04)** 
+: 함께 사는 사람들과 가사일을 관리하고 고마움을 전하는 가사 알림 앱입니다. (2026년 4월 출시)
+
+**[Re:Post - N년 다이어리](https://devgood42.github.io/magazine.html#issue-03)** 
 : Obsidian에서 영감을 받은 프라이버시 중심의 로컬 저장 기반 다이어리입니다. (2026년 3월 출시)
 
-**[Scoreboard - Live & Share](https://devgood42.github.io/magazine.html#issue-03)** 
+**[Scoreboard - Live & Share](https://devgood42.github.io/magazine.html#issue-02)** 
 : 실시간 동기화로 점수를 여러 기기에서 조작할 수 있는 스포츠 도구입니다. (2026년 3월 출시)
 
-**[Pomotime - 집중 타이머](https://devgood42.github.io/magazine.html#issue-02)** 
+**[Pomotime - 집중 타이머](https://devgood42.github.io/magazine.html#issue-01)** 
 : 집중을 돕기 위한 미니멀한 디자인의 크로스 플랫폼 뽀모도로 타이머입니다. (2026년 2월 출시)
 
 **[KickTube](https://github.com/sgdevcamp2025/kickzo)**
