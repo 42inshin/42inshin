@@ -43,7 +43,7 @@
 ## 프로젝트 상세 (Projects)
 
 **[WILD RUSH 밴드 공연 소개](https://wildrush.vercel.app/)**
-: 제가 직접 참여하는 밴드 WILD RUSH의 9월 19일 공연을 알리는 소개 페이지입니다. (2026년 8월 배포)
+: 직접 참여하는 밴드 WILD RUSH의 공연을 알리는 소개 페이지입니다. (2026년 8월 배포)
 
 **[memone](https://devgood42.github.io/magazine.html#issue-05)**
 : 쏟아낸 생각을 AI가 하나의 아이디어 단위로 쪼개고 이어 주는 제텔카스텐 메모 앱입니다. (2026년 8월 출시)
